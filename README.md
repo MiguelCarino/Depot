@@ -1,4 +1,4 @@
-# Assets & Data
+# Depot
 
 Shared assets and sample data files (images, JSON, documents) used across the [carino.systems](https://carino.systems/) workshop.
 
